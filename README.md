@@ -1,3 +1,141 @@
+# ✨ Hello, I’m MetatronsLove ✨
+
+👋 I’ve never **formally learned to code**. No school, no certificate.  
+But I’ve always had a good relationship with computers. Creating **truly useful**, free, open‑source tools for people makes me happy.
+
+💡 **Everything here** – including these words you’re reading – was made **with zero financial motivation**, simply to make things easier, more fun, or to satisfy curiosity.  
+If you find any of it useful, **buying me a coffee** would mean the world to me on this journey. ☕
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/metatronslove)
+
+---
+
+## 📜 A Short History
+
+This adventure started with tiny scripts I wrote just to make my own life easier. Then I realised: **other people need the same things**.
+
+Over time, it grew into a huge collection covering **numerology, abjad, magic squares, local AI models, games, download tools, Android apps** – you name it.
+
+My oldest project, `abjad` (April 2024), was the first step. Today the collection includes **more than 40 repositories**. And it’s still alive – new things are added every day.
+
+🗓️ **Latest updates:** even today (March 27, 2026) many repos got updates. This isn’t a static archive – it’s **living work**.
+
+---
+
+## 📂 My Projects (and who they’re for)
+
+### 🔮 Abjad, Numerology & Occult Tools
+
+| Project | What It Does | Who It’s For |
+|---------|--------------|--------------|
+| **[abjad](https://github.com/metatronslove/abjad)** | Abjad calculation functions for Google Sheets / Excel / Python / Web | 📊 Statisticians, researchers, enthusiasts |
+| **[abjad-widget](https://github.com/metatronslove/abjad-widget)** | Abjad widget for WordPress | 🧩 WordPress users, bloggers |
+| **[occultabjadcalculator](https://github.com/metatronslove/occultabjadcalculator)** | Live abjad calculator (web) | 🔍 Anyone who needs quick calculations |
+| **[magic-square-generator](https://github.com/metatronslove/magic-square-generator)** | Magic square generator (web) | 🧙‍♂️ Esoteric studies, math fun |
+| **[magicsquare-widget](https://github.com/metatronslove/magicsquare-widget)** | Magic square widget for WordPress | 🌐 WordPress site owners |
+| **[Vanilla-JavaScript-Numerology-Calculator](https://github.com/metatronslove/Vanilla-JavaScript-Numerology-Calculator)** | Numerology calculator (Turkish) | 🇹🇷 Turkish‑speaking numerology enthusiasts |
+| **[Ilce-isimleri-Numerolojik-Kayitlari](https://github.com/metatronslove/Ilce-isimleri-Numerolojik-Kayitlari)** | Numerological values of district names | 📍 Local research, geographic numerology |
+| **[isimler-ve-ebced-degerleri](https://github.com/metatronslove/isimler-ve-ebced-degerleri)** | Abjad database of personal names | 📝 People doing name analysis |
+| **[abjad-magic-square-checker](https://github.com/metatronslove/abjad-magic-square-checker)** | Abjad verification for magic squares | 🧪 Researchers who need validation |
+| **[square-checker](https://github.com/metatronslove/square-checker)** | General magic square validator | ✅ Math / occult enthusiasts |
+
+📱 **Mobile apps (Cordova / Android):**
+- [okult-ebced-hesaplayici-cordova-android-app](https://tinyurl.com/occultapps)
+- [sihirli-kare-olusturucu-cordova-android-app](https://tinyurl.com/occultapps)
+
+With these two apps you can **calculate abjad values and magic squares right from your phone.**
+
+---
+
+### 🤖 Local AI & Test Tools
+
+| Project | What It Does | Who It’s For |
+|---------|--------------|--------------|
+| **[CPU-Only-Local-GPT-Neo-Test-Server-AI-GUI](https://github.com/metatronslove/CPU-Only-Local-GPT-Neo-Test-Server-AI-GUI)** | Local GPT‑Neo test server and GUI that runs on CPU only | 💻 Developers without a GPU, educators |
+| **[Local-Deepseek-R1](https://github.com/metatronslove/Local-Deepseek-R1)** | Guide and scripts to run Deepseek R1 locally | 🧠 Anyone curious about local AI |
+| **[hermes-ai-trainer](https://github.com/metatronslove/hermes-ai-trainer)** | Dataset editor for AI training | 🧩 Enthusiasts interested in AI training |
+
+---
+
+### 🎮 Games & Fun
+
+| Project | What It Does | Who It’s For |
+|---------|--------------|--------------|
+| **[chess](https://metatronslove.github.io/chess/)** | Online chess game | ♟️ Chess lovers |
+| **[reversi](https://metatronslove.github.io/reversi/)** | Reversi (Othello) game | 🎲 Strategy game fans |
+| **[sayiya-zar-at](https://metatronslove.github.io/sayiya-zar-at/)** | Roll dice to a number | 🎯 Anyone needing random numbers |
+| **[witchy](https://metatronslove.github.io/witchy/)** | Witch‑themed interactive experience | 🧙‍♀️ Those who enjoy mystical fun |
+| **[liliths-luck](https://metatronslove.github.io/liliths-luck/)** | Lilith‑themed luck game | 🌙 Astrology & game lovers |
+| **[let-my-girl-friend-enjoy-our-coffee](https://metatronslove.github.io/let-my-girl-friend-enjoy-our-coffee/)** | A personal surprise – romantic experience | 💖 Anyone who wants to make a small gesture |
+| **[auto-clicker](https://github.com/metatronslove/auto-clicker)** | Auto‑clicker tool | 🖱️ Those who want to automate repetitive clicks |
+
+---
+
+### 🛠️ Developer & System Tools
+
+| Project | What It Does | Who It’s For |
+|---------|--------------|--------------|
+| **[github-repo-traffic-viewer](https://metatronslove.github.io/github-repo-traffic-viewer/)** | Visualises GitHub repo traffic data | 📈 Open‑source developers |
+| **[offline-downloader-script-and-gui](https://metatronslove.github.io/offline-downloader-script-and-gui/)** | Offline web content downloader | 💾 Archivists, researchers |
+| **[batch-and-bash-conversion-scripts-for-ffmpeg](https://metatronslove.github.io/batch-and-bash-conversion-scripts-for-ffmpeg/)** | Batch conversion scripts for FFmpeg | 🎬 Video / audio editors |
+| **[bash-installer-genearator](https://github.com/metatronslove/bash-installer-genearator)** | Bash installer generator | 🐧 Linux users, packagers |
+| **[local-previewer-html](https://github.com/metatronslove/local-previewer-html)** | Local HTML file previewer | 👩‍💻 Web developers |
+| **[proxy2](https://github.com/metatronslove/proxy2)** | Proxy management tool | 🌐 Anyone dealing with network settings |
+| **[profile-pic-scraper](https://github.com/metatronslove/profile-pic-scraper)** | Profile picture scraper | 🖼️ Data collection projects |
+
+---
+
+### 🌍 Web Tools & Experiments
+
+| Project | What It Does | Who It’s For |
+|---------|--------------|--------------|
+| **[flat-earth-celestial-tracker](https://metatronslove.github.io/flat-earth-celestial-tracker/)** | Sky tracking for a flat‑Earth model | 🧭 Alternative astronomy enthusiasts |
+| **[emoji-editor](https://metatronslove.github.io/emoji-editor/)** | Emoji editor / combiner | 😎 Emoji designers |
+| **[chat-widget](https://github.com/metatronslove/chat-widget)** | Chat widget for websites | 🗣️ Site owners |
+| **[cuma13](https://github.com/metatronslove/cuma13)** | “Friday the 13th” countdown in terminal | 🖥️ CLI users, fun |
+| **[lament](https://metatronslove.github.io/lament/)** | Minimalist mourning / memorial page template | 🕯️ Those creating memorial sites |
+
+---
+
+### 🧪 Other Interesting Projects
+
+| Project | What It Does | Who It’s For |
+|---------|--------------|--------------|
+| **[NumberFansBot](https://github.com/metatronslove/NumberFansBot)** | A bot for number enthusiasts | 🤖 People fascinated by numbers |
+| **[open-statistics-platform](https://github.com/metatronslove/open-statistics-platform)** | Open statistics platform infrastructure | 📊 Data scientists |
+| **[dogrudan-irade-platformu](https://github.com/metatronslove/dogrudan-irade-platformu)** | Direct democracy experiment | 🗳️ Civil society, activists |
+| **[kilo-kontrol-kayitlari](https://github.com/metatronslove/kilo-kontrol-kayitlari)** | Weight tracking system | 🏋️ People tracking health metrics |
+| **[YouTube-sohbet-asistan-](https://github.com/metatronslove/YouTube-sohbet-asistan-)** | YouTube live chat assistant | 🎥 Streamers, content creators |
+| **[sdnext](https://metatronslove.github.io/sdnext/)** | Interface for Stable Diffusion Next | 🎨 AI visual artists |
+
+---
+
+## ☕ Why You Should Buy Me a Coffee
+
+> **“I’ve never had any formal coding education, I don’t earn a cent from these projects, and I make them purely because they might be useful to others.”**
+
+If you’ve used any of these tools, and they made your life easier, entertained you, or satisfied your curiosity…  
+**Buying me a coffee would be a very fair thing to do.** ☕️
+
+Coffee is a great motivator to create even more projects, keep servers running, and continue building **free, open‑source tools for everyone**.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/metatronslove)
+
+---
+
+## 📫 Get in Touch
+
+- 💬 **GitHub**: [@metatronslove](https://github.com/metatronslove)  
+- 🌐 **My website**: [metatronslove.github.io](https://metatronslove.github.io) – many tools are directly accessible there as well.  
+- 📧 You can open an issue on GitHub to contact me.
+
+---
+
+🎉 **Thank you!**  
+Even reading this and valuing my effort makes me feel warm inside.  
+I hope you find one of these projects useful.  
+And remember: **a coffee is enough reason to build the next tool.** ☕
+<!--
 # ✨ Merhaba, ben MetatronsLove ✨
 
 👋 Kod yazmayı hiç **resmen öğrenmedim**. Ne bir okulu var, ne bir sertifikam.  
@@ -135,7 +273,7 @@ Kahveler, daha fazla proje üretmek, sunucuları ayakta tutmak ve **herkese aç�
 Bu satırları okuyup emeğime değer verdiğin için bile içim ısınıyor.  
 Umarım bu projelerden birini faydalı bulursun.  
 Ve unutma: **Bir kahve, bir sonraki aracı yapmak için yeterli bir sebeptir.** ☕
-<!--
+
 **metatronslove/metatronslove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
