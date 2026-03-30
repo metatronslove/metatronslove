@@ -131,6 +131,49 @@ Coffee is a great motivator to create even more projects, keep servers running, 
 
 ---
 
+# The Exploitation Paradox: When Open Source "Freedom" Becomes Entitlement
+
+The modern digital world is built on a foundation of open source software (OSS). From the Linux kernel running on servers to the MIT-licensed libraries that form the backbone of most applications, the global economy rests on code shared freely by developers. Research estimates that open source now constitutes **over 96% of all software** . Yet, a dangerous paradox has emerged: while corporations and well-funded individuals reap billions in value from this ecosystem, the very developers who wrote the code are burning out, often while watching those who can afford to help choose not to . When a user has the financial means to support a project but actively chooses not to, while still demanding maintenance and security, the ethical nature of open source shifts from a gift economy to a system of exploitation.
+
+## The "As-Is" Contract and the Right to Say No
+
+The foundation of this issue lies in the licenses themselves. The MIT License, the GPL, and Apache 2.0 are all built on a core premise: the software is provided "AS IS," without warranty of merchantability or fitness for a particular purpose . As Rich Hickey, the creator of Clojure, famously articulated, "Open source is not about you." When a developer publishes code, they are sharing a gift or a tool they built for themselves. They are **not entering a service contract** .
+
+Users often misinterpret the freedom granted by the license as a right to demand labor. As academic research in *Computers in Human Behavior* notes, this creates a situation of "external appropriation," where the product of a contributor’s efforts is monetized or utilized by a party that does not contribute back . The study confirms that this perceived injustice is "negatively related" to a contributor's willingness to continue their efforts. In short, free-riding doesn't just feel unfair; it actively destroys the motivation of the creators .
+
+## The Hidden Costs of "Free" Code
+
+The argument that users owe developers nothing ignores the economic reality of maintenance. A study from the World Bank highlights that **maintenance and support represent 40% to 80% of the total cost** of software over its lifecycle . When a company uses an MIT-licensed library, they are offloading this massive operational cost onto a maintainer who is often unpaid.
+
+This leads to the crisis currently plaguing the open source community: burnout. As Gentoo developer Michał Górny notes, the problem is systemic. Developers are not just fighting technical debt; they are fighting a culture where "corporations have figured out that they can treat the FLOSS community as a source of free labor" . The FOSDEM 2026 talk, *"Free as in Burned Out,"* explicitly asks, "Why are we still relying on volunteers to power global infrastructure?" . The answer is that the current system allows—and even incentivizes—users to extract value without reciprocating.
+
+## The Moral Hazard of Permissive Licenses
+
+Part of the blame lies in the proliferation of permissive licenses like MIT and BSD. While these licenses maximize adoption, they also maximize the potential for exploitation. As one developer on the Open Social Network argued, "The proliferation of MIT and BSD licenses really made the Free Software free rider problem much worse... you are working for free for corporations who will never give back" .
+
+When a user *can* pay (via GitHub Sponsors, Open Collective, or commercial support contracts) but refuses to do so, they are not acting in the spirit of open source. They are exploiting a legal loophole to privatize gains while socializing costs. Even major tech corporations like Google acknowledge this internally, enforcing a policy where "if you rely on third party software, you may be asked to step up and help maintain it," adding that it is a "non-negotiable part of the contract of using open source code" .
+
+## Conclusion: Sustainability Requires Reciprocity
+
+If a user or organization generates revenue using open source software, and they have the disposable income to support the developers who make that revenue possible, their failure to do so constitutes a form of rights grabbing. It is an abuse of the social contract that underpins the open source movement.
+
+The sustainability of the digital commons depends on moving beyond the "manna from heaven" mentality—the belief that high-quality software will simply materialize and maintain itself for free . If you can afford to sponsor the code you rely on but choose not to, you are not a user; you are a free-rider. And as the research shows, free-riders eventually kill the projects they depend on.
+
+---
+
+## References
+
+1.  Oreg, S., & Nov, O. (2008). *Open source content contributors’ response to free-riding: The effect of personality and context*. Computers in Human Behavior, 24(6), 2848–2861. 
+2.  Hickey, R. (2018). *Open source is not about you*. GitHub Gist. (Cited via analysis in ONES.com) 
+3.  Górny, M. (2026). *Money isn’t going to solve the burnout problem*. Planet Gentoo. 
+4.  World Bank Blogs. (2019). *Like manna from heaven? The sustainability of Open Source projects*. 
+5.  OW2con. (2024). *Ethics and values in FOSS: sustainability of open-source development*. 
+6.  FOSDEM. (2026). *Free as in Burned Out: Who Really Pays for Open Source?* 
+7.  Depierre, T. (2024). *You Are All On The Hobbyists Maintainers’ Turf Now*. The Open Social Network. 
+8.  Google Open Source. (2025). *//third_party Owners' and Users' Responsibilities*. 
+
+---
+
 🎉 **Thank you!**  
 Even reading this and valuing my effort makes me feel warm inside.  
 I hope you find one of these projects useful.  
